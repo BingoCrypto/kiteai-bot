@@ -41,7 +41,7 @@
 
 将此项目克隆到您的本地计算机：
 ```bash
-git clone https://github.com/BingoCrypto/kiteaibot
+git clone https://github.com/BingoCrypto/kiteai-bot.git
 cd kiteaibot
 ```
 
